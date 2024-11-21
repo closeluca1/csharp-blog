@@ -1,0 +1,5 @@
+bin/
+obj/
+out/
+
+src/Data/Versions/*.sqlite*
